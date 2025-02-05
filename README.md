@@ -1,3 +1,1 @@
-# github
-hi everyone i am subash yadav 
-here iam practic git in 
+hi every one i am subash yadav from nepal, iam study computer science and enginnering in kathmandu university,dhulikhel;
